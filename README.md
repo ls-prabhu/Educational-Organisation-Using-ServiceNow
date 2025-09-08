@@ -9,6 +9,12 @@ A fully functional **Educational Management System** built on the ServiceNow Pla
 📺 **Watch Demo:**  
 [🔗 Click to View on Google Drive](https://drive.google.com/file/d/16obHpZVqYhiE23WKoWBb10lvW6KkORIy/view?usp=sharing)
 
+## 📖 Documentation
+
+For detailed instructions on creating tables, forms, and workflows in ServiceNow,  
+see the [Setup Guide](setupguide.md).
+
+
 ---
 
 ## 👥 Team Members / Team ID: NM2025TMID12959
