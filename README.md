@@ -86,3 +86,11 @@ To digitize and streamline educational workflows using ServiceNow’s low-code p
 - 📩 Email & SMS Notifications  
 - 📊 Grade Analytics Dashboard  
 - 🧠 Integration with external databases or APIs
+
+## 🤝 Contributing
+
+Found a bug or want to suggest an improvement?  
+- 🐛 **Open an Issue** if you spot problems or have feature requests.  
+- 🔀 **Submit a Pull Request** if you’d like to contribute directly with code or docs.  
+
+We welcome contributions from everyone 🚀
