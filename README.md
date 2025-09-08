@@ -63,9 +63,8 @@ To digitize and streamline educational workflows using ServiceNow’s low-code p
 | Admission Workflow   | 🔄 Status-based Process Flow |
 
 > ℹ️ Add screenshots in your repo `assets/` folder and reference them using  
-> `![Alt Text](assets/image.png)`
 
-![Screenshot](assets/screenshot.png)
+![Screenshot](assets/image.png)
 
 ---
 
