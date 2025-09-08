@@ -7,16 +7,17 @@ A fully functional **Educational Management System** built on the ServiceNow Pla
 ## 🎬 Demo
 
 📺 **Watch Demo:**  
-[🔗 Click to View on Google Drive]()
+[🔗 Click to View on Google Drive](https://drive.google.com/file/d/16obHpZVqYhiE23WKoWBb10lvW6KkORIy/view?usp=sharing)
 
 ---
 
-## 👥 Team Members/team id : NM2025TMID12959
+## 👥 Team Members / Team ID: NM2025TMID12959
 
 - **PRABHU L S** – ServiceNow Developer  
 - **NAVIRKINIYAN** – UI/UX & Form Designer  
 - **PRAVEEN RAJ** – Client Scripts & Table Developer  
-- **RADIKA** – Testing & Documentation
+- **RADIKA** – Testing & Documentation  
+
 ---
 
 ## 📌 Overview
@@ -42,20 +43,8 @@ To digitize and streamline educational workflows using ServiceNow’s low-code p
 | Platform    | ServiceNow (Personal Dev Instance) |
 | UI          | Form-based Modules               |
 | Logic       | Client Scripts, UI Policies      |
-| Database    | ServiceNow Tables                |
+| Database    | ServiceNow Tables (3 tables: Student Details, Student Progress, Sales Force) |
 | Deployment  | Cloud-based via ServiceNow PDI   |
-
----
-
-## ⚙️ How to Run the Project
-
-1. Sign up at [developer.servicenow.com](https://developer.servicenow.com) and create a **Personal Developer Instance (PDI)**  
-2. Navigate to → **System Update Sets > Retrieved Update Sets**  
-3. **Import** the Update Set from the `/UpdateSets/` folder  
-4. **Commit** the set  
-5. Explore modules:  
-   - `Admissions`  
-   - `Student Progress`
 
 ---
 
@@ -67,7 +56,8 @@ To digitize and streamline educational workflows using ServiceNow’s low-code p
 | Student Progress Form| 📈 Marks + Result Logic |
 | Admission Workflow   | 🔄 Status-based Process Flow |
 
-> ℹ️ Add screenshots in your repo `assets/` folder and reference them using `![Alt Text](assets/screen1.png)`
+> ℹ️ Add screenshots in your repo `assets/` folder and reference them using  
+> `![Alt Text](assets/screen1.png)`
 
 ---
 
@@ -96,11 +86,3 @@ To digitize and streamline educational workflows using ServiceNow’s low-code p
 - 📩 Email & SMS Notifications  
 - 📊 Grade Analytics Dashboard  
 - 🧠 Integration with external databases or APIs
-
----
-
-## 📜 License
-
-🆓 Free to use for academic, learning, and non-commercial use.
-
----
