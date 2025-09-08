@@ -65,6 +65,8 @@ To digitize and streamline educational workflows using ServiceNow’s low-code p
 > ℹ️ Add screenshots in your repo `assets/` folder and reference them using  
 > `![Alt Text](assets/image.png)`
 
+![Screenshot](assets/screenshot.png)
+
 ---
 
 ## 🔐 Authentication
