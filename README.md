@@ -62,7 +62,7 @@ To digitize and streamline educational workflows using ServiceNow’s low-code p
 | Student Progress Form| 📈 Marks + Result Logic |
 | Admission Workflow   | 🔄 Status-based Process Flow |
 
-> ℹ️ Add screenshots in your repo `assets/` folder and reference them using  
+> ℹ️ Add screenshots in `assets/` folder 
 
 ![Screenshot](assets/image.png)
 
